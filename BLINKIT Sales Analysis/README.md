@@ -14,6 +14,6 @@ As part of my data analytics portfolio, I developed an interactive sales analysi
 🔹 Demonstrated real-time data-driven decision-making through KPIs.  
 🔹 Enabled granular performance comparison across different geographies and time periods.  
 
-🔗 This project showcases my ability to transform raw data into insightful, business-impacting visuals using Power BI. It reflects a strong grasp of end-to-end BI workflow: from data cleaning and modeling to storytelling with data.
+🔗 This project showcases my ability to transform raw data into insightful, business-impacting visuals using Power BI. It reflects a strong grasp of MySQL for data cleaning and end-to-end BI workflow: from data modeling to storytelling with data.
 
-
+![Dashboard Preview](https://github.com/Manthann-05/Data-Analytics/blob/main/BLINKIT%20Sales%20Analysis/Blinkit%20Sales%20Dashboard.png)
