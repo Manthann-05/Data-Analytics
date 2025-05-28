@@ -17,3 +17,5 @@ DAX Measures for custom calculations and performance metrics
 
 🎯 Impact:  
 Helped simulate real-world decision-making scenarios for e-commerce business operations. Enabled stakeholders to quickly identify opportunities for growth, assess performance metrics, and make data-driven decisions.
+
+![Dashboard Preview](https://github.com/Manthann-05/Data-Analytics/blob/main/AMAZON%20Sales%20Analysis/Sales%20Analysis%20Dashboard.png)
